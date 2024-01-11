@@ -1,0 +1,1 @@
+It is Python-based App that ensures instant communication with a user-friendly interface. It utilizes real-time messaging for responsive conversations, potentially featuring authentication, encryption, and multiroom support.
