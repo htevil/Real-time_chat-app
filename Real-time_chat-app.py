@@ -75,3 +75,11 @@ lstbx.place(x=15,y=80)
 user_name = Label(root,text =" Number" ,width=10)
  
 root.mainloop()
+
+'''
+1) This works if both system are connected on same network
+2) python script on the second system will have exactly the same code except 
+port number in computer 1 receive connection = port number in sending section of computer 2 , 
+port number in computer 2 receive connection = port number in sending section of computer 1 
+hostname in computer 2 sending = ip variable in computer 1 script  ,
+hostname in computer 1 sending = ip variable in computer 2 script'''
